@@ -1,0 +1,7 @@
+2023/07/31-09:57:17.890 6dac Recovering log #96
+2023/07/31-09:57:17.894 6dac Delete type=0 #96
+2023/07/31-09:57:17.894 6dac Delete type=3 #94
+2023/07/31-11:50:35.483 6e40 Level-0 table #102: started
+2023/07/31-11:50:35.483 6e40 Level-0 table #102: 0 bytes OK
+2023/07/31-11:50:35.484 6e40 Delete type=0 #100
+2023/07/31-11:50:35.487 6e40 Manual compaction at level-0 from '!actors!9Ibk9saR4FbCn18e' @ 72057594037927935 : 1 .. '!actors.items!t6QJDs9f5anOJ8nA.sISM0YjRuNPSr5Mw' @ 0 : 0; will stop at (end)
