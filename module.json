@@ -5,6 +5,8 @@
   "compatibility": {
     "minimum": "11",
     "verified": "11"
+	  "manifest": "https://github.com/folken88/folken-games-fantasy-chef/blob/main/module.json",
+	"download": "https://github.com/folken88/folken-games-fantasy-chef/releases/download/release/folken-games-fantasy-chef.zip",
   },
   "authors": [
     {
