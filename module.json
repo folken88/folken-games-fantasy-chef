@@ -17,7 +17,7 @@
   "packs": [
     {
       "name": "folken-games-fantasy-chefs-pf1e",
-      "label": "FG - FC Actors PF1e",
+      "label": "FG - Fantasy Chef Actors PF1e",
       "path": "packs/folken-games-fantasy-chefs-pf1e",
       "type": "Actor",
       "system": "pf1",
@@ -28,7 +28,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-items-pf1e",
-      "label": "FG - FC Items PF1e",
+      "label": "FG - Fantasy Chef Items PF1e",
       "path": "packs/folken-games-fantasy-cooking-items-pf1e",
       "type": "Item",
       "system": "pf1",
@@ -39,7 +39,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-journal-entries",
-      "label": "FG - FC Journal Entries PF1e",
+      "label": "FG - Fantasy Chef Journals PF1e",
       "path": "packs/folken-games-fantasy-cooking-journal-entries",
       "type": "JournalEntry",
       "system": "pf1",
@@ -50,7 +50,7 @@
     },
     {
       "name": "folken-games-fantasy-chefs-sfrpg",
-      "label": "FG - FC Actors SFRPG",
+      "label": "FG - Fantasy Chef Actors SFRPG",
       "path": "packs/folken-games-fantasy-chefs-sfrpg",
       "type": "Actor",
       "system": "sfrpg",
@@ -61,7 +61,7 @@
     },
     {
       "name": "folken-games-fantasy-chefs-pf2e",
-      "label": "FG - FC Actors PF2e",
+      "label": "FG - Fantasy Chef Actors PF2e",
       "path": "packs/folken-games-fantasy-chefs-pf2e",
       "type": "Actor",
       "system": "pf2e",
@@ -72,7 +72,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-items-sfrpg",
-      "label": "FG - FC Chef Items SFRPG",
+      "label": "FG - Fantasy Chef Items SFRPG",
       "path": "packs/folken-games-fantasy-cooking-items-sfrpg",
       "type": "Item",
       "system": "sfrpg",
@@ -83,7 +83,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-items-pf2e",
-      "label": "FG - FC Items PF2e",
+      "label": "FG - Fantasy Chef Items PF2e",
       "path": "packs/folken-games-fantasy-cooking-items-pf2e",
       "type": "Item",
       "system": "pf2e",
@@ -94,7 +94,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-scenes-pf1e",
-      "label": "FG - FC Scenes PF1e",
+      "label": "FG - Fantasy Chef Scenes PF1e",
       "path": "packs/folken-games-fantasy-cooking-scenes-pf1e",
       "type": "Scene",
       "system": "pf1",
@@ -105,7 +105,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-scenes-pf2e",
-      "label": "FG - FC Scenes PF2e",
+      "label": "FG - Fantasy Chef Scenes PF2e",
       "path": "packs/folken-games-fantasy-cooking-scenes-pf2e",
       "type": "Scene",
       "system": "pf2e",
@@ -116,7 +116,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-scenes-sfrpg",
-      "label": "FG - FC Scenes SFRPG",
+      "label": "FG - Fantasy Chef Scenes SFRPG",
       "path": "packs/folken-games-fantasy-cooking-scenes-sfrpg",
       "type": "Scene",
       "system": "sfrpg",
@@ -127,7 +127,7 @@
     },
     {
       "name": "folken-games-fantasy-chefs-dandd5e",
-      "label": "FG - FC Actors D&D5e",
+      "label": "FG - Fantasy Chef Actors D&D5e",
       "path": "packs/folken-games-fantasy-chefs-dandd5e",
       "type": "Actor",
       "system": "dnd5e",
@@ -138,7 +138,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-items-dandd5e",
-      "label": "FG - FC Items D&D5e",
+      "label": "FG - Fantasy Chef Items D&D5e",
       "path": "packs/folken-games-fantasy-cooking-items-dandd5e",
       "type": "Item",
       "system": "dnd5e",
@@ -149,7 +149,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-journal-entries-pf2e",
-      "label": "FG - FC Journal Entries PF2e",
+      "label": "FG - Fantasy Chef Journals PF2e",
       "path": "packs/folken-games-fantasy-cooking-journal-entries-pf2e",
       "type": "JournalEntry",
       "system": "pf2e",
@@ -160,7 +160,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-journal-entries-sfrpg",
-      "label": "FG - FC Journal Entries SFRPG",
+      "label": "FG - Fantasy Chef Journal Entries SFRPG",
       "path": "packs/folken-games-fantasy-cooking-journal-entries-sfrpg",
       "type": "JournalEntry",
       "system": "sfrpg",
@@ -171,7 +171,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-journal-entries-dandd5e",
-      "label": "FG - FC Journal Entries D&D5e",
+      "label": "FG - Fantasy Chef Journals D&D5e",
       "path": "packs/folken-games-fantasy-cooking-journal-entries-dandd5e",
       "type": "JournalEntry",
       "system": "dnd5e",
@@ -182,7 +182,7 @@
     },
     {
       "name": "folken-games-fantasy-cooking-scenes-dandd5e",
-      "label": "FG - FC Scenes D&D5e",
+      "label": "FG - Fantasy Chef Scenes D&D5e",
       "path": "packs/folken-games-fantasy-cooking-scenes-dandd5e",
       "type": "Scene",
       "system": "dnd5e",
@@ -190,6 +190,50 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "fg-fantasy-chef-tables-pf1",
+      "label": "FG - Fantasy Chef Tables PF1",
+      "path": "packs/fg-fantasy-chef-tables-pf1",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf1"
+    },
+    {
+      "name": "fg-fantasy-chef-tables-sfrpg",
+      "label": "FG - Fantasy Chef Tables SFRPG",
+      "path": "packs/fg-fantasy-chef-tables-sfrpg",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "sfrpg"
+    },
+    {
+      "name": "fg-fantasy-chef-tables-pf2",
+      "label": "FG - Fantasy Chef Tables PF2",
+      "path": "packs/fg-fantasy-chef-tables-pf2",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "fg-fantasy-chef-tables-dandd5e",
+      "label": "FG - Fantasy Chef Tables D&D5e",
+      "path": "packs/fg-fantasy-chef-tables-dandd5e",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "relationships": {
